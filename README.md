@@ -64,11 +64,11 @@ In your activity's XML, wrap your main scrollable content (like a `RecyclerView`
     android:layout_height="match_parent"
     
     // --- Optional Customization ---
-    app:ptr_triggerDistance="100dp"
-    app:ptr_contentDownMaxDistance="220dp"
-    app:ptr_contentDownTightness="0.45"
-    app:ptr_indicatorDownTightness="0.12"
-    app:ptr_indicatorGroupMargin="20dp">
+    app:ptr_indicatorGroupMargin="8dp"
+    app:ptr_triggerDistance="60dp"
+    app:ptr_contentDownMaxDistance="100dp"
+    app:ptr_contentDownTightness="0.7"
+    app:ptr_indicatorDownTightness="0.2">
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/my_recycler_view"
