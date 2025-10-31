@@ -1,6 +1,6 @@
 # Jetpack Compose Inspired Pull-To-Refresh Animation in Sketchware Pro
 
-[![Pull to Refresh Demo]()]()
+[![Pull to Refresh Demo](https://raw.githubusercontent.com/FasterSoftwareDeveloper/Jetpack-Compose-Inspired-Pull-To-Refresh-Animation-in-Sketchware-Pro/refs/heads/main/thumbnail.png)](https://youtu.be/StO4e8eazdA)
 
 This project provides a custom Android `RelativeLayout` that mimics the fluid, physics-based pull-to-refresh animation found in Jetpack Compose's `pullRefresh` modifier. It's built for traditional XML layouts and is perfect for easy integration into **Sketchware Pro** projects, giving them a modern Material 3 feel.
 
