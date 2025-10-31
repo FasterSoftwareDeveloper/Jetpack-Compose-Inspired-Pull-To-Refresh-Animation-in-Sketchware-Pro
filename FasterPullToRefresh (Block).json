@@ -1,0 +1,51 @@
+[
+  {
+    "code": "%1$s.setOnRefreshListener(new FasterPullToRefreshLayout.OnRefreshListener() {\n@Override\npublic void onRefresh() {\n%2$s\n}\n});",
+    "imports": "",
+    "color": "#2196F3",
+    "name": "FPTR Refresh Listener",
+    "typeName": "",
+    "palette": "18",
+    "type": "c",
+    "spec": "FPTR Refresh Listener - PullToRefresh Layout %m.view"
+  },
+  {
+    "code": "%1$s.isRefreshing()",
+    "imports": "",
+    "color": "#2196F3",
+    "name": "FPTR isRefreshing",
+    "typeName": "",
+    "palette": "18",
+    "type": "b",
+    "spec": "FPTR isRefreshing - PullToRefresh Layout %m.view"
+  },
+  {
+    "code": "%1$s.setRefreshing(true);",
+    "imports": "",
+    "color": "#2196F3",
+    "name": "FPTR Start Refreshing",
+    "typeName": "",
+    "palette": "18",
+    "type": " ",
+    "spec": "FPTR Start Refreshing (Manually) - PullToRefresh Layout %m.view"
+  },
+  {
+    "code": "%1$s.setRefreshing(false);",
+    "imports": "",
+    "color": "#2196F3",
+    "name": "FPTR Stop Refreshing",
+    "typeName": "",
+    "palette": "18",
+    "type": " ",
+    "spec": "FPTR Stop Refreshing - PullToRefresh Layout %m.view"
+  },
+  {
+    "code": "%1$s",
+    "color": "#2196F3",
+    "name": "FPTR PullToRefresh Layout",
+    "typeName": "View",
+    "palette": "18",
+    "type": "v",
+    "spec": "FPTR PullToRefresh Layout %s.inputOnly"
+  }
+]
